@@ -19,7 +19,6 @@ github:''
 videos:[
 {file:'Videos/Video1.mp4',name:'Main UI',description:''},
 {file:'Videos/Video2.mp4',name:'Tablet',description:''},
-{file:'Videos/Video3.mp4',name:'Classic Style UI Framework',description:''}
 ],
 photos:[
 {file:'Photos/Image1.jpg',name:'Overhead System',description:'Overhead System has been set up with functions such as pulling rank from the group, adding icons, and it can fully support rank insignia, division rank and division logo, with the ability to link to the Tablet System.'},
