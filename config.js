@@ -4,7 +4,7 @@ handle:'65VI9',
 role:'UI/UX Designer & Programmer',
 age:18,
 years:4,
-visits:'3.5M+',
+visits:'13.7M+',
 status:'Contributor, multiple groups',
 intro:'Hello, I am 65VI9, 18 years old, a developer working across UI/UX design, user experience and programming. I have worked as a developer for several groups, building systems and interfaces that have reached millions of visits.',
 lead:'I am 65VI9, a developer focused on UI/UX Design alongside Programming. I believe a good interface and a solid system have to be built together, not treated as separate concerns.'
